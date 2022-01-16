@@ -1,0 +1,31 @@
+#playlist {
+  display: flex;
+  margin-top: 28vh;
+  width: 100%;
+  justify-content: center;
+}
+.pl__link img {
+  height: 23vh;
+  width: 23vh;
+  border-radius: 15px;
+  display: block;
+  margin: 3vh 0 2vh 0;
+}
+.pl__link {
+  display: block;
+  color: white;
+  font-size: 15px;
+  line-height: 18px;
+}
+.pl__li {
+  margin: 0 1.5vh;
+}
+.pl__block {
+  display: flex;
+  flex-wrap: wrap;
+  width: 88%;
+}
+.pl__subtitle {
+  font-size: 14px;
+  color: rgb(175, 175, 175);
+}

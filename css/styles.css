@@ -1,0 +1,13 @@
+@import "reset.css";
+
+/*components*/
+@import "components/nav-bar.css";
+
+/*pages*/
+@import "pages.css";
+body {
+  font-family: "맑은 고딕", sans-serif;
+  background-color: black;
+  color: grey;
+  box-sizing: border-box;
+}
